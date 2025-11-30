@@ -1,0 +1,4 @@
+- source: index.qmd
+  quarto-pub:
+    - id: 39c3e98a-5469-4dee-ab5f-614fc5dd8b78
+      url: 'https://hebstr.quarto.pub/m2-rapport'

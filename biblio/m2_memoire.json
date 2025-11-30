@@ -1,0 +1,365 @@
+[
+	{
+		"id": "http://zotero.org/users/6490326/items/RZMSBJTH",
+		"type": "webpage",
+		"title": "Comparateur de territoires − Comparez les territoires de votre choix - Résultats pour les communes, départements, régions, intercommunalités... | Insee",
+		"URL": "https://www.insee.fr/fr/statistiques/1405599?geo=REG-32",
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					7,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6490326/items/2MCSFHIP",
+		"type": "webpage",
+		"title": "Estimation de la population au 1ᵉʳ janvier 2024 | Insee",
+		"URL": "https://www.insee.fr/fr/statistiques/7752095",
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					7,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6490326/items/29WVB96U",
+		"type": "webpage",
+		"title": "Quelle démographie récente et à venir pour les professions médicales et pharmaceutique ? - Constat et projections démographiques | Direction de la recherche, des études, de l'évaluation et des statistiques",
+		"URL": "https://drees.solidarites-sante.gouv.fr/publications/les-dossiers-de-la-drees/quelle-demographie-recente-et-venir-pour-les-professions",
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					7,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6490326/items/LQRY4C93",
+		"type": "webpage",
+		"title": "Espérance de vie en 2023 | Insee",
+		"URL": "https://www.insee.fr/fr/statistiques/2012749#tableau-TCRD_050_tab1_regions2016",
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					7,
+					28
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6490326/items/3FGANPYU",
+		"type": "webpage",
+		"title": "Article - Bulletin épidémiologique hebdomadaire",
+		"URL": "https://beh.santepubliquefrance.fr/beh/2023/12-13/2023_12-13_1.html",
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					7,
+					28
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2022"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6490326/items/9Q338QQL",
+		"type": "webpage",
+		"abstract": "Taux de participation au programme de dépistage organisé du cancer du sein 2022-2023 et évolution depuis 2005",
+		"language": "fr",
+		"title": "Taux de participation au programme de dépistage organisé du cancer du sein 2022-2023 et évolution depuis 2005",
+		"URL": "https://www.santepubliquefrance.fr/maladies-et-traumatismes/cancers/cancer-du-sein/articles/taux-de-participation-au-programme-de-depistage-organise-du-cancer-du-sein-2022-2023-et-evolution-depuis-2005",
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					7,
+					28
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2024"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6490326/items/PZ8K7HBD",
+		"type": "webpage",
+		"container-title": "Institut National du Cancer (InCa)",
+		"title": "Incidence et mortalité départementales et régionales (2007-2016) - Incidence et mortalité des cancers",
+		"URL": "https://www.e-cancer.fr/Expertises-et-publications/Les-donnees-sur-les-cancers/Incidence-et-mortalite-des-cancers/Incidence-et-mortalite-regionales-et-departementales#toc-en-france-m-tropolitaine",
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					7,
+					28
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6490326/items/H9M8S8FE",
+		"type": "webpage",
+		"title": "https://www.ameli.fr/sites/default/files/Documents/5229/document/facturation-medicaments-retrocedes_assurance-maladie.pdf",
+		"URL": "https://www.ameli.fr/sites/default/files/Documents/5229/document/facturation-medicaments-retrocedes_assurance-maladie.pdf",
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					8,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6490326/items/UZRZZUR5",
+		"type": "webpage",
+		"title": "Composantes du SNDS | SNDS",
+		"URL": "https://www.snds.gouv.fr/SNDS/Composantes-du-SNDS",
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					8,
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6490326/items/IV2P9WYM",
+		"type": "article-journal",
+		"container-title": "Annals of Oncology",
+		"DOI": "10.1016/j.annonc.2023.09.587",
+		"ISSN": "0923-7534, 1569-8041",
+		"journalAbbreviation": "Annals of Oncology",
+		"language": "English",
+		"note": "publisher: Elsevier",
+		"page": "S355",
+		"source": "www.annalsofoncology.org",
+		"title": "410P Patients treated with pertuzumab followed by T-DM1 for breast cancer in France from 2014 to 2021: A survival analysis of 10,408 patients from the French National Hospital discharge summary database (PMSI)",
+		"title-short": "410P Patients treated with pertuzumab followed by T-DM1 for breast cancer in France from 2014 to 2021",
+		"URL": "https://www.annalsofoncology.org/article/S0923-7534(23)01423-0/fulltext",
+		"volume": "34",
+		"author": [
+			{
+				"family": "Lemaitre",
+				"given": "J."
+			},
+			{
+				"family": "Chazard",
+				"given": "E."
+			},
+			{
+				"family": "Cren",
+				"given": "P.-Y."
+			},
+			{
+				"family": "Lebellec",
+				"given": "L."
+			},
+			{
+				"family": "Penel",
+				"given": "N."
+			},
+			{
+				"family": "Cheymol",
+				"given": "C."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					8,
+					23
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2023",
+					10,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6490326/items/9GY5B3SZ",
+		"type": "document",
+		"language": "fr",
+		"source": "Zotero",
+		"title": "GUIDE PRATIQUE POUR LA FACTURATION DES  MEDICAMENTS RETROCEDES PAR LES  ETABLISSEMENTS DE SANTE",
+		"author": [
+			{
+				"family": "Nathalie",
+				"given": "HERSENT"
+			},
+			{
+				"family": "Audrey",
+				"given": "PALMENTIER"
+			},
+			{
+				"family": "Annick",
+				"given": "TISSIER"
+			},
+			{
+				"family": "Pascale",
+				"given": "MARTIN"
+			},
+			{
+				"family": "Cécile",
+				"given": "BITCHE"
+			},
+			{
+				"family": "Gaël",
+				"given": "COUTURIER"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2009"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6490326/items/APFSZ4HT",
+		"type": "article-journal",
+		"abstract": "Secondary use of clinical structured data takes an important place in healthcare research. It was first described by Fayyad as \"knowledge discovery in databases\". Feature extraction is an important phase but received little attention. The objectives of this paper are: 1) to propose an updated representation of data reuse in healthcare, 2) to illustrate methods and objectives of feature extraction, and 3) to discuss the place of domain-specific knowledge.\nMATERIAL AND METHODS: an updated representation is proposed. Then, a case study consists of automatically identifying acute renal failure and discovering risk factors, by secondary use of structured data. Finally, a literature review published par Meystre et al. is analyzed.\nRESULTS: 1) we propose a description of data reuse in 5 phases. Phase 1 is data preprocessing (cleansing, linkage, terminological alignment, unit conversions, deidentification), it enables to construct a data warehouse. Phase 2 is feature extraction. Phase 3 is statistical and graphical mining. Phase 4 consists of expert filtering and reorganization of statistical results. Phase 5 is decision making. 2) The case study illustrates how time-dependent features can be extracted from laboratory results and drug administrations, using domain-specific knowledge. 3) Among the 200 papers cited by Meystre et al., the first and last authors were affiliated to health institutions in 74% (68% for methodological papers, and 79% for applied papers).\nDISCUSSION: features extraction has a major impact on success of data reuse. Specific knowledge-based reasoning takes an important place in feature extraction, which requires tight collaboration between computer scientists, statisticians, and health professionals.",
+		"container-title": "Studies in Health Technology and Informatics",
+		"ISSN": "1879-8365",
+		"journalAbbreviation": "Stud Health Technol Inform",
+		"language": "eng",
+		"note": "PMID: 30306898",
+		"page": "15-19",
+		"source": "PubMed",
+		"title": "Secondary Use of Healthcare Structured Data: The Challenge of Domain-Knowledge Based Extraction of Features",
+		"title-short": "Secondary Use of Healthcare Structured Data",
+		"volume": "255",
+		"author": [
+			{
+				"family": "Chazard",
+				"given": "Emmanuel"
+			},
+			{
+				"family": "Ficheur",
+				"given": "Grégoire"
+			},
+			{
+				"family": "Caron",
+				"given": "Alexandre"
+			},
+			{
+				"family": "Lamer",
+				"given": "Antoine"
+			},
+			{
+				"family": "Labreuche",
+				"given": "Julien"
+			},
+			{
+				"family": "Cuggia",
+				"given": "Marc"
+			},
+			{
+				"family": "Genin",
+				"given": "Michaël"
+			},
+			{
+				"family": "Bouzille",
+				"given": "Guillaume"
+			},
+			{
+				"family": "Duhamel",
+				"given": "Alain"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2018"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6490326/items/I5GZ56U8",
+		"type": "document",
+		"title": "CIM-10 FR",
+		"URL": "https://www.atih.sante.fr/sites/default/files/public/content/3963/cim-10fr-2021.pdf",
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					8,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/6490326/items/YZMAEUF4",
+		"type": "document",
+		"title": "CCAM - Principes généraux",
+		"URL": "https://www.ameli.fr/fileadmin/user_upload/documents/CCAM-Principes_generaux_mars2011.pdf",
+		"accessed": {
+			"date-parts": [
+				[
+					"2024",
+					8,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	}
+]
